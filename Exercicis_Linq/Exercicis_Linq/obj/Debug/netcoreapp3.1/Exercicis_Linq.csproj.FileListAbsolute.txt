@@ -1,0 +1,13 @@
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.exe
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.deps.json
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.runtimeconfig.json
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.runtimeconfig.dev.json
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.dll
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\bin\Debug\netcoreapp3.1\Exercicis_Linq.pdb
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.csprojAssemblyReference.cache
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.AssemblyInfoInputs.cache
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.AssemblyInfo.cs
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.csproj.CoreCompileInputs.cache
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.dll
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.pdb
+C:\Users\ofeli\source\repos\Exercicis_Linq\Exercicis_Linq\obj\Debug\netcoreapp3.1\Exercicis_Linq.genruntimeconfig.cache
